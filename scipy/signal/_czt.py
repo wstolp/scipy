@@ -334,7 +334,7 @@ class ZoomFFT(CZT):
     ----------
     .. [1] Steve Alan Shilling, "A study of the chirp z-transform and its
            applications", pg 29 (1970)
-           https://krex.k-state.edu/dspace/bitstream/handle/2097/7844/LD2668R41972S43.pdf
+           https://krex.k-state.edu/items/b2178544-451c-4476-887d-17d8a07ee9d9
     .. [2] Leo I. Bluestein, "A linear filtering approach to the computation
            of the discrete Fourier transform," Northeast Electronics Research
            and Engineering Meeting Record 10, 218-219 (1968).
@@ -441,7 +441,7 @@ def czt(x, m=None, w=None, a=1+0j, *, axis=-1):
     ----------
     .. [1] Steve Alan Shilling, "A study of the chirp z-transform and its
            applications", pg 20 (1970)
-           https://krex.k-state.edu/dspace/bitstream/handle/2097/7844/LD2668R41972S43.pdf
+           https://krex.k-state.edu/items/b2178544-451c-4476-887d-17d8a07ee9d9
 
     Examples
     --------
